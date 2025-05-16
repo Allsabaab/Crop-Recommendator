@@ -1,0 +1,62 @@
+Bagerhat,Rice,Jute,Mustard,Lentil,Potato,Soybean,Betel Leaf,Coconut,Banana,Guava
+Bandarban,Rice,Tea,Mango,Chili,Cardamom,Coffee,Rubber,Pineapple,Jackfruit,Areca Nut
+Barguna,Rice,Jute,Mustard,Lentil,Maize,Sesame,Pumpkin,Bottle Gourd,Chili,Coconut
+Barishal,Rice,Jute,Mustard,Lentil,Maize,Brinjal,Tomato,Cabbage,Cauliflower,Spinach
+Bhola,Rice,Jute,Mustard,Lentil,Maize,Watermelon,Musk Melon,Pumpkin,Okra,Cucumber
+Bogra,Rice,Jute,Sugarcane,Maize,Mustard,Wheat,Onion,Garlic,Potato,Tomato
+Brahmanbaria,Rice,Jute,Lentil,Mustard,Chili,Sesame,Brinjal,Spinach,Carrot,Radish
+Chandpur,Rice,Jute,Mango,Mustard,Garlic,Pea,Onion,Cauliflower,Cabbage,Guava
+Chapainawabganj,Rice,Wheat,Jute,Mango,Potato,Onion,Chili,Lentil,Guava,Silk
+Chattogram,Rice,Tea,Maize,Areca Nut,Coffee,Rubber,Coconut,Betel Leaf,Banana,Pineapple
+Chuadanga,Rice,Jute,Mustard,Lentil,Potato,Chickpea,Onion,Garlic,Brinjal,Tomato
+Cox's Bazar,Rice,Chili,Mustard,Tea,Mango,Watermelon,Cashew Nut,Coffee,Coconut,Papaya
+Cumilla,Rice,Jute,Maize,Mustard,Garlic,Potato,Tomato,Onion,Brinjal,Chili
+Dhaka,Rice,Jute,Mustard,Lentil,Maize,Brinjal,Tomato,Cabbage,Cauliflower,Spinach
+Dinajpur,Rice,Wheat,Maize,Potato,Mango,Cabbage,Carrot,Brinjal,Chili,Sugarcane
+Faridpur,Rice,Jute,Lentil,Mustard,Chili,Garlic,Sesame,Brinjal,Tomato,Okra
+Feni,Rice,Jute,Mustard,Maize,Potato,Chili,Onion,Garlic,Ginger,Coconut
+Gaibandha,Rice,Wheat,Jute,Mustard,Chili,Maize,Lentil,Potato,Onion
+Gazipur,Rice,Maize,Lentil,Mustard,Potato,Garlic,Tomato,Brinjal,Chili
+Gopalganj,Rice,Jute,Lentil,Mustard,Chili,Onion,Garlic,Potato,Brinjal
+Habiganj,Tea,Rice,Maize,Lentil,Mustard,Brinjal,Carrot,Spinach,Okra
+Jashore,Rice,Jute,Lentil,Mustard,Chili,Garlic,Potato,Mango,Onion
+Jhenaidah,Rice,Jute,Mustard,Lentil,Chickpea,Potato,Chili,Garlic,Onion
+Joypurhat,Rice,Maize,Wheat,Onion,Mango,Potato,Chili,Garlic,Mustard
+Khagrachhari,Rice,Tea,Mango,Maize,Cardamom,Coffee,Areca Nut,Banana,Coconut
+Khulna,Rice,Jute,Mustard,Lentil,Maize,Potato,Chili,Garlic,Onion
+Kishoreganj,Rice,Jute,Mustard,Maize,Garlic,Potato,Chili,Tomato,Brinjal
+Kurigram,Rice,Jute,Mustard,Maize,Potato,Chili,Onion,Garlic,Brinjal
+Kushtia,Rice,Jute,Mustard,Lentil,Potato,Chili,Garlic,Onion,Brinjal
+Lalmonirhat,Rice,Jute,Mustard,Maize,Chili,Garlic,Potato,Onion,Tomato
+Laxmipur,Rice,Jute,Mustard,Garlic,Maize,Chili,Potato,Tomato,Onion
+Madaripur,Rice,Jute,Mustard,Lentil,Maize,Potato,Garlic,Brinjal,Chili
+Magura,Rice,Jute,Mustard,Lentil,Potato,Maize,Garlic,Chili,Onion
+Manikganj,Rice,Jute,Lentil,Mustard,Chili,Potato,Garlic,Brinjal,Onion
+Meherpur,Rice,Jute,Mustard,Lentil,Chickpea,Maize,Potato,Garlic,Onion
+Moulvibazar,Tea,Rice,Maize,Lentil,Mustard,Brinjal,Spinach,Okra,Tomato
+Munshiganj,Rice,Jute,Mustard,Lentil,Maize,Potato,Garlic,Onion,Chili
+Mymensingh,Rice,Wheat,Carrot,Maize,Potato,Chili,Brinjal,Garlic,Onion
+Naogaon,Rice,Wheat,Maize,Jute,Mango,Potato,Onion,Garlic,Chili
+Narail,Rice,Jute,Mustard,Lentil,Chili,Garlic,Onion,Potato,Tomato
+Narayanganj,Rice,Jute,Lentil,Mustard,Garlic,Onion,Potato,Brinjal,Chili
+Narsingdi,Rice,Jute,Maize,Lentil,Mustard,Garlic,Onion,Potato,Chili
+Natore,Rice,Jute,Sugarcane,Maize,Mustard,Potato,Onion,Chili,Brinjal
+Netrokona,Rice,Wheat,Maize,Potato,Mustard,Onion,Garlic,Chili,Tomato
+Nilphamari,Rice,Wheat,Maize,Potato,Lentil,Garlic,Chili,Onion,Brinjal
+Noakhali,Rice,Jute,Mustard,Chili,Garlic,Pea,Onion,Potato,Brinjal
+Pabna,Rice,Jute,Lentil,Mustard,Maize,Potato,Onion,Chili,Garlic
+Panchagarh,Rice,Maize,Potato,Tea,Lentil,Garlic,Onion,Chili,Brinjal
+Patuakhali,Rice,Jute,Mustard,Lentil,Maize,Potato,Onion,Garlic,Chili
+Pirojpur,Rice,Jute,Mustard,Lentil,Maize,Potato,Onion,Garlic,Chili
+Rajbari,Rice,Jute,Mustard,Lentil,Chili,Garlic,Onion,Potato,Tomato
+Rajshahi,Rice,Wheat,Maize,Jute,Lentil,Potato,Onion,Garlic,Brinjal
+Rangamati,Rice,Tea,Maize,Chili,Potato,Watermelon,Okra,Brinjal,Garlic
+Rangpur,Rice,Maize,Potato,Mustard,Chili,Garlic,Onion,Brinjal,Tomato
+Satkhira,Rice,Jute,Mustard,Lentil,Maize,Potato,Onion,Chili,Garlic
+Shariatpur,Rice,Jute,Mustard,Lentil,Maize,Potato,Onion,Garlic,Chili
+Sherpur,Rice,Jute,Mustard,Lentil,Maize,Potato,Onion,Garlic,Chili
+Sirajganj,Rice,Jute,Mustard,Lentil,Maize,Potato,Chili,Garlic,Onion
+Sunamganj,Rice,Jute,Maize,Lentil,Mustard,Potato,Onion,Chili,Garlic
+Sylhet,Tea,Rice,Maize,Lentil,Mustard,Brinjal,Carrot,Spinach,Chili
+Tangail,Rice,Jute,Mustard,Lentil,Chickpea,Maize,Potato,Onion,Chili
+Thakurgaon,Rice,Wheat,Maize,Potato,Lentil,Garlic,Onion,Chili,Brinjal
