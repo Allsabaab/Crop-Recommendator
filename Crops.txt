@@ -1,0 +1,49 @@
+Rice,5.0,6.5,High
+Wheat,6.0,7.5,Medium
+Maize,5.5,7.0,Medium
+Jute,6.0,7.5,Medium
+Potato,5.0,6.0,High
+Sugarcane,6.0,7.5,High
+Lentil,6.0,7.0,Low
+Mustard,5.5,7.0,Medium
+Chickpea,6.0,7.5,Low
+Soybean,6.0,7.0,Low
+Tea,4.5,5.5,Medium
+Tobacco,5.5,6.5,Medium
+Cotton,5.5,6.5,Medium
+Chili,6.0,7.0,Medium
+Onion,6.0,7.0,Medium
+Garlic,6.0,7.5,Medium
+Pea,6.0,7.5,Low
+Sesame,5.5,6.5,Low
+Mung Bean,5.5,6.5,Low
+Black Gram,5.5,6.5,Low
+Brinjal,5.5,6.5,Medium
+Tomato,5.5,6.8,Medium
+Cabbage,6.0,7.5,Medium
+Cauliflower,6.0,7.0,Medium
+Carrot,6.0,6.8,Medium
+Radish,6.0,7.0,Medium
+Spinach,6.5,7.5,Medium
+Amaranth,6.0,7.5,Medium
+Pumpkin,5.5,7.5,Medium
+Bottle Gourd,6.0,7.5,Medium
+Bitter Gourd,5.5,6.7,Medium
+Okra,6.0,6.8,Medium
+Cucumber,5.5,7.0,Medium
+Watermelon,6.0,6.8,Medium
+Musk Melon,6.0,6.8,Medium
+Papaya,5.5,7.0,Medium
+Banana,5.5,7.0,High
+Mango,5.5,7.5,Medium
+Jackfruit,6.0,7.5,Medium
+Guava,5.5,7.0,Medium
+Pineapple,4.5,6.5,Medium
+Litchi,5.5,7.0,Medium
+Coconut,5.0,8.0,Medium
+Betel Leaf,5.5,6.5,Medium
+Areca Nut,5.5,6.5,Medium
+Cashew Nut,5.5,6.5,Medium
+Coffee,6.0,6.5,Medium
+Rubber,4.5,6.0,Medium
+Silk,6.0,7.0,Medium
